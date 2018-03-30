@@ -1,0 +1,17 @@
+{
+  "name": "movieguide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "jotauribe",
+  "license": "ISC",
+  "dependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.19.1",
+    "nightmare": "^3.0.1"
+  }
+}
